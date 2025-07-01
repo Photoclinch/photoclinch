@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PhotoClinch - India's Premier Photography Platform
 
 A modern, responsive web application connecting clients with professional photographers, videographers, and editors across India.
@@ -168,3 +169,21 @@ For support, email support@photoclinch.com or join our Slack channel.
 ---
 
 Built with ❤️ by the PhotoClinch team
+=======
+## Hi there 👋
+
+<!--
+**Photoclinch/photoclinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 52d69d83d441de28acf03da8b055a3e29cac3a09
